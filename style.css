@@ -6,6 +6,13 @@
   margin: 0;
 }
 
+.lesbian-bg {
+  background-image: url('img/lesbianprideflag.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .lgbt-links {
   font-size: 65px;
   color: white;
