@@ -1,4 +1,17 @@
 .index-bg {
   background-image: url('img/transpocincprideflag.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   margin: 0;
+}
+
+.lgbt-links {
+  font-size: 65px;
+  color: white;
+  font-family: 'MuseoModerno', cursive;
+}
+
+a:hover {
+  text-decoration: none;
 }
