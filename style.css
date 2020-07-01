@@ -79,3 +79,8 @@
 a:hover {
   text-decoration: none;
 }
+
+img {
+  width: 500px;
+  height: auto;
+}
