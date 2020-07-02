@@ -80,7 +80,9 @@ a:hover {
   text-decoration: none;
 }
 
-img {
-  width: 500px;
+.image-grid img {
+  width: 300px;
   height: auto;
+  padding: 20px;
+
 }
