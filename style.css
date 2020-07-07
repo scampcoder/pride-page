@@ -90,3 +90,12 @@ a:hover {
 h3 {
   font-size: 65px;
 }
+
+.flag-div {
+  padding-bottom: 100px;
+}
+
+.flag-div img {
+  height: 400px;
+  width: auto;
+}
