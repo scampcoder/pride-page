@@ -27,3 +27,12 @@ h3 {
   height: 400px;
   width: auto;
 }
+
+li {
+  list-style-type: none;
+}
+
+.list-heading {
+  text-decoration: underline;
+  font-size: 25px;
+}
