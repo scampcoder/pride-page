@@ -15,6 +15,22 @@ a:hover {
   background-size: cover;
 }
 
+.hover-flag {
+  margin: auto;
+  width: 600px;
+}
+
+.hover-flag li {
+  width: 100%;
+  padding: 10px;
+}
+
+.hover-flag ul {
+  padding: 0;
+  width: 600px;
+  height: 400px;
+}
+
 .image-grid img {
   width: 300px;
   height: 450px;;
