@@ -25,6 +25,11 @@ a:hover {
   padding: 10px;
 }
 
+li:hover {
+  color: black;
+  cursor: pointer;
+}
+
 .hover-flag ul {
   padding: 0;
   width: 600px;
