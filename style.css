@@ -15,6 +15,11 @@ a:hover {
   background-size: cover;
 }
 
+#index-box {
+  background-color: #C0C0C0;
+  border: solid black;
+}
+
 .hover-flag {
   margin: auto;
   width: 600px;
