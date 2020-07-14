@@ -8,6 +8,13 @@ a:hover {
   text-decoration: none;
 }
 
+#index-bg {
+  background-image: url("img/prideparade.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .image-grid img {
   width: 300px;
   height: 450px;;
