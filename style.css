@@ -17,7 +17,13 @@ a:hover {
 
 #index-box {
   background-color: #C0C0C0;
+  opacity: 0.5;
   border: solid black;
+  width: 40vw;
+  height: auto;
+  margin: auto;
+  margin-top: 30vh;
+  padding: 20px;
 }
 
 .hover-flag {
