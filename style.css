@@ -19,11 +19,16 @@ a:hover {
   background-color: #C0C0C0;
   opacity: 0.8;
   border: solid black;
-  width: 40vw;
+  width: 45vw;
   height: auto;
   margin: auto;
-  margin-top: 30vh;
+  margin-top: 40vh;
   padding: 20px;
+  font-size: 20px;
+}
+
+#index-box h1{
+  text-align: center;
 }
 
 .hover-flag {
